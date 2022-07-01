@@ -1,1 +1,3 @@
 something
+Another detail here
+Some changes add them.
